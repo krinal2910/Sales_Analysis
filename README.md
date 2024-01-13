@@ -36,9 +36,9 @@ Answers come to life in colourful charts and graphs!
 
 **Tech Magic Used**
 
-Python 3.9
-Pandas Library
-Matplotlib Library
+- Python 3.9
+- Pandas Library
+- Matplotlib Library
 
 **Shoutout**
 
