@@ -16,7 +16,7 @@ Before You Begin
 
 **Get Started**
 
- Clone the treasure - git clone https://github.com/krinal2910/sales-analysis.git
+ Clone the treasure - git clone https://github.com/krinal2910/Sales_Analysis 
 
 install Python tools - pip install pandas matplotlib
 
